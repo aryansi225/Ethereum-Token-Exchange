@@ -26,29 +26,29 @@ You would require metamask with accounts on rinkeby networks with some ethers. A
 
 # Screenshots
 
-First being as admin I add Fixed token to exchange
+First being as admin I added Fixed token to exchange
 ![image](https://user-images.githubusercontent.com/16362957/53591373-d4ff4b00-3bb9-11e9-871c-63ee3308a406.png)
 
-Then I give allowance to Exchange to send 50 tokens
+Then I gave allowance to Exchange to send 50 tokens
 ![image](https://user-images.githubusercontent.com/16362957/53591500-27406c00-3bba-11e9-84a2-bcf867a009d2.png)
 
-Then I deposit 50 tokens to exchange
+Then I deposited 50 tokens to exchange
 ![image](https://user-images.githubusercontent.com/16362957/53591526-3de6c300-3bba-11e9-802f-772a1ef1aa15.png)
 
 ![image](https://user-images.githubusercontent.com/16362957/53591606-6969ad80-3bba-11e9-979f-8d9eed83fb95.png)
 
-Then I put 20 tokens for 50000 wei each for sale
+Then I had put 20 tokens for 50000 wei each for sale
 ![image](https://user-images.githubusercontent.com/16362957/53591664-869e7c00-3bba-11e9-96f0-63db5970dc77.png)
 
 ![image](https://user-images.githubusercontent.com/16362957/53591701-9d44d300-3bba-11e9-8479-a6753b8a62a6.png)
 
-Then I put another 10 tokens for 40000 wei each for sale
+Then I had put another 10 tokens for 40000 wei each for sale
 ![image](https://user-images.githubusercontent.com/16362957/53591772-c82f2700-3bba-11e9-96a5-cd492c2fd943.png)
 
-Then using my second account (non-admin) I deposit 0.1 ether to exchange
+Then using my second account (non-admin) I deposited 0.1 ether to exchange
 ![image](https://user-images.githubusercontent.com/16362957/53591840-fd3b7980-3bba-11e9-85fd-4e6d6cb6a351.png)
 
-Then using the second account I place a buy order of 5 tokens for 50000 wei each and it gets instantly fulfilled with the seller asking for lower price as it would happen in a trading setup
+Then using the second account I placed a buy order of 5 tokens for 50000 wei each and it got instantly fulfilled with the seller asking for lower price as it would happen in a trading setup
 ![image](https://user-images.githubusercontent.com/16362957/53591979-48558c80-3bbb-11e9-87ab-29247ab73ee8.png)
 
 ![image](https://user-images.githubusercontent.com/16362957/53592010-5dcab680-3bbb-11e9-9d8e-89c5f9db2344.png)
