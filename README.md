@@ -66,7 +66,7 @@ Infura,
 Mocha,
 Web3.
 
-# References
+# References and Credits
 https://github.com/tomw1808/distributed_exchange_truffle_class_3
 
 
