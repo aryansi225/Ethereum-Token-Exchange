@@ -70,12 +70,12 @@ Web3.
 https://github.com/tomw1808/distributed_exchange_truffle_class_3
 
 # My Original Contributions and Learnings
-Contribution
+Contribution =>
 Reimplemented the code by learning from associated Udemy course lectures using newer version and funtionality of Solidity and other dependencies. 
 Also, fixed major bugs due to the movement to newer version and functionality.
 In additon to this used Infura as opposed to Geth as shown in course to deploy the smart contract to Rinkeby test network.
 
-Major Learnings
+Major Learnings =>
 Learnt how to build an exchange contact on top of ERC 20 Token Standard Exchange so that an ICO can be launched in solidity. 
 Unit test the functionality.
 Deploy the smart contract to test network and test it using truffle generated frontend.
