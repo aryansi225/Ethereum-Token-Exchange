@@ -67,6 +67,7 @@ Mocha,
 Web3.
 
 # References and Credits
+https://www.udemy.com/course/ethereum-masterclass/
 https://github.com/tomw1808/distributed_exchange_truffle_class_3
 
 # My Original Contributions and Learnings
